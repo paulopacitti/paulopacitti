@@ -6,6 +6,4 @@
 <a href="https://twitter.com/paulopacitti" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-black.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-- 🔭 I’m currently **working** on as _Software Engineering Intern_ at [iFood](https://institucional.ifood.com.br/) :fries:
-- 🌱 I’m currently **learning** _Spring Boot_ and _Kubernetes_ :anchor:
-- ⚡ **Fun fact**: my older brother and I were born in the same day, but we aren't twins :upside_down_face:
+- 🔭 I’m currently **working** on as _Software Development Engineer_ at [Amazon](https://www.aboutamazon.com/) 📦
