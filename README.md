@@ -5,5 +5,3 @@
 <a href="https://www.linkedin.com/in/paulopacitti" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/paulopacitti" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-black.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
-- 🔭 I’m currently **working** on as _Software Development Engineer_ at [Amazon](https://www.aboutamazon.com/) 📦
