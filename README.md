@@ -1,8 +1,7 @@
-### Hi there, I'm Paulo Pacitti :wave:
+### Hi there, I'm Paulo Pacitti 🌐
 
-- I love how **God** allowed us to create **computers** and software to **improve human lives** 🌐
-- **UNICAMP**'s [Intitute of Computing](https://en.wikipedia.org/wiki/University_of_Campinas_Institute_of_Computing) student 📚
-- I've worked at **Amazon** and **Meta** 💽
+- I'm a SWE @ iFood, but previously Meta, Amazon 💽
+- **UNICAMP**'s [Intitute of Computing](https://en.wikipedia.org/wiki/University_of_Campinas_Institute_of_Computing) alum 📚
 
 <p>
 <a href="https://paulopacitti.itch.io/" target="_blank"><img alt="itch.io" src="https://img.shields.io/badge/itchio-black?style=for-the-badge&logo=itch.io" /></a>
