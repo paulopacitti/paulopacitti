@@ -1,6 +1,6 @@
 ### Hi there, I'm Paulo Pacitti 🌐
 
-- I'm a SWE @ iFood, but previously Meta, Amazon 💽
+- SWE @ iFood, previously Meta, Amazon 💽
 - **UNICAMP**'s [Intitute of Computing](https://en.wikipedia.org/wiki/University_of_Campinas_Institute_of_Computing) alum 📚
 
 <p>
